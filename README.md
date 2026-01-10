@@ -1,18 +1,20 @@
-## Hi there  
-Myself Vishwa Patel 👋
+<h1 align="center">Hi 👋, I'm Vishwa Patel</h1>
+<h3 align="center">Computer Engineering Student | Frontend Developer</h3>
 
+<p align="center">
+  🚀 Passionate about building clean UI & real-world web projects
+</p>
 
+---
 
+## 🙋‍♂️ About Me
 
-## 💫 About Me:
-Computer Engineering student | Frontend Developer  
-Learning and building projects with HTML and CSS at Coding Gita.
+- 🎓 Computer Engineering Student  
+- 💻 Frontend Developer  
+- 🌱 Learning modern web technologies  
+- 🎯 Focused on responsive & user-friendly interfaces  
 
-
-
-
-
-##
+---
 
 
 ## 🌐 Socials:
