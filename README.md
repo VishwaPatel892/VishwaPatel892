@@ -23,16 +23,25 @@
 
 
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+## 🛠️ My Tech Stack
 
+<div align="center">
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass" alt="Frontend" />
+  
+  <br/><br/>
+
+  <h3>Backend & Database</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,mongodb,postgres,mysql,redis" alt="Backend & DB" />
+
+  <br/><br/>
+
+  <h3>Tools & Others</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,postman,vscode,linux" alt="Tools" />
+</div>
+
+
+<hr>
 
 
 
