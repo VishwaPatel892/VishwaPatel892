@@ -27,17 +27,17 @@
 
 <div align="center">
   <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind," alt="Frontend" />
   
   <br/><br/>
 
   <h3>Backend & Database</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,mongodb,postgres,mysql,redis" alt="Backend & DB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,redis" alt="Backend & DB" />
 
   <br/><br/>
 
   <h3>Tools & Others</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,postman,vscode,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,linux" alt="Tools" />
 </div>
 
 
