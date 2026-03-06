@@ -23,8 +23,6 @@
 
    
 
-- ⚡ Fun fact - I am a creative person and I love My Country !
-
   
   <hr>
   
