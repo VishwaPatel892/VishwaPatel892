@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning WEB Development
   
--  💬 Expertise in HTML | CSS | JavaScript | C++ | React | React Native | MongoDB | GitHub| 
+-  💬 Expertise in HTML | CSS | JavaScript | C++ | React |  MongoDB | GitHub| 
 
 <!-- 👨‍💻 Know more about me <b><a href="https://rajeshranjan22.github.io" target="_blank">PORTFOLIO</a></b>-->
   
