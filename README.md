@@ -1,4 +1,4 @@
-# Hi 👋, I'm <br/><br/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&size=35&width=435&lines=Vishwa+Patel" alt="Typing SVG" /></a>
+# Hi , I'm <br/><br/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&size=35&width=435&lines=Vishwa+Patel" alt="Typing SVG" /></a>
 
 
 
