@@ -9,15 +9,15 @@
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="420" height="300" align="right" />
 
 
-- 🌱 I’m currently learning WEB Development
+-  I’m currently learning WEB Development
   
--  💬 Expertise in HTML | CSS | JavaScript | C++ | React |  MongoDB | GitHub| 
+-  Expertise in HTML | CSS | JavaScript | C++ | React |  MongoDB | GitHub| 
 
-<!-- 👨‍💻 Know more about me <b><a href="https://rajeshranjan22.github.io" target="_blank">PORTFOLIO</a></b>-->
+<!-- Know more about me <b><a href="https://rajeshranjan22.github.io" target="_blank">PORTFOLIO</a></b>-->
   
-- 👨‍💻 All of my projects are available at <b><a href="https://github.com/VishwaPatel892" target="_blank">GITHUB</a></b>
+- All of my projects are available at <b><a href="https://github.com/VishwaPatel892" target="_blank">GITHUB</a></b>
 
-- 📫 How to reach me <b>vishwa.patel.cg@gmail.com</b>
+-  How to reach me <b>vishwa.patel.cg@gmail.com</b>
 
   
 
