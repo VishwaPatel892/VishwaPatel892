@@ -98,6 +98,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VishwaPatel892&label=Profile%20Views&color=1e3c72&style=flat" />
+</p>
+
 
 <!-- ================= FOOTER ================= -->
 <div align="center">
