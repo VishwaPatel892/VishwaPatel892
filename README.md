@@ -26,9 +26,6 @@
   
   <hr>
   
- 
-
-     <br />
   <h3> 🚀 Languages and Tools:</h3>
 <hr />
 <div align="center">
