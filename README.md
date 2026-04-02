@@ -87,16 +87,7 @@
 
 
 
-## Website Clones
 
-| Site Name     | Description                          | GitHub Repository | Live Demo |
-|---------------|--------------------------------------|-------------------|-----------|
-| Boll & Branch | Luxury home essentials website clone | [Repo](https://github.com/VishwaPatel892/BOLL-BRANCH) | [Live](https://vishwa-bollbranch-clone.netlify.app/) |
-| Alani         | Wellness and lifestyle brand clone   | [Repo](https://github.com/VishwaPatel892/ALANI-WEBSITE) | [Live](https://alani-clone.netlify.app/) |
-| Vuori         | Activewear e-commerce website clone  | [Repo](https://github.com/VishwaPatel892/VUORI-WEBSITE) | [Live](https://vuori-clone.netlify.app/) |
-| Corkcicle     | Drinkware brand website clone        | [Repo](https://github.com/VishwaPatel892/CORKCICLE-CLONE) | [Live](https://corkcicle-clone.netlify.app/) |
-| Ikea          | Furniture retail website clone       | [Repo](https://github.com/VishwaPatel892/IKEA-WEBSITE) | [Live](https://ikea2-clone.netlify.app/) |
-| Prime         | Subscription-based service clone     | [Repo](https://github.com/VishwaPatel892/PRIME-WEBSITE) | [Live](https://myprime-clone.netlify.app/) |
 
 
 ##
