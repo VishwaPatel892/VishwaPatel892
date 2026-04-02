@@ -1,9 +1,11 @@
 <!-- ================= HEADER ================= -->
 <!-- Header -->
+
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=220&section=header&text=Vishwa%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Engineering%20Student%20%7C%20Builder&descAlignY=60&descSize=18&animation=fadeIn)](https://github.com/VishwaPatel892)
 
 ---
-
+<p align="center">
+</p>
 
 <div align="center">
   <table border="0">
