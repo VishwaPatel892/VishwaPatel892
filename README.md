@@ -119,11 +119,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
 </p>
 
-## 🔥 Contribution Graph
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishwaPatel892&theme=tokyo-night" />
-</p>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VishwaPatel892&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 
 <!-- ================= FOOTER ================= -->
