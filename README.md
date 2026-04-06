@@ -37,10 +37,6 @@
 
 
 
-<!-- ================= DIVIDER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
-</p>
 
 ## 🌐 Connect With Me
 <p align="center">
