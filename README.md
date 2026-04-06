@@ -5,6 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=800&color=9333EA&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Building+Modern+Responsive+Web+Interfaces;UI+Focused+Web+Development" />
 </p>
 
+
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/108JCgrGIbmNV5dfkx5vGWPWt0rVtg8yg/view">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VishwaPatel892&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
