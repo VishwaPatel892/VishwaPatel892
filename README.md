@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=800&color=9333EA&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Building+Modern+Responsive+Web+Interfaces;UI+Focused+Web+Development" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VishwaPatel892&label=Visitors&color=blueviolet&style=for-the-badge" />
+</p>
+
 <!-- ================= DIVIDER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
@@ -31,16 +35,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
 </p>
 
-
-## 🏆 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Vishwa0102?theme=dark&font=Poppins&ext=contest" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VishwaPatel892&label=Visitors&color=blueviolet&style=for-the-badge" />
-</p>
 
 
 <!-- ================= DIVIDER ================= -->
@@ -69,36 +63,36 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
 </p>
 
-<table>
-<tr>
 
-<td width="60%" align="center">
+
 
 ## ⚡ Tech Stack
 
 <br>
 
-### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" width="320"/>
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" />
+</p>
 
-### ⚙️ Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" width="220"/>
+<h3 align="center">⚙️ Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" width="220"/>
+</p>
 
-### 🗄 Database  
-<img src="https://skillicons.dev/icons?i=mongodb" width="110"/>
+<h3 align="center">🗄 Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="110"/>
+</p>
 
-### 🛠 Tools  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" width="260"/>
+<h3 align="center">🛠 Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" width="260"/>
+</p>
 
-</td>
 
-<td width="40%" align="center">
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%" />
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100%" />
-</td>
 
-</tr>
-</table>
+
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
