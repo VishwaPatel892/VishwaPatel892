@@ -38,14 +38,28 @@ Passionate Full-Stack Developer with hands-on experience in building modern, sca
 ## ✨ About Me
 
 
-<br>
 
-<div align="center" width="650">
+<div align="center">
+<table>
+<tr>
+<td width="55%">
 
-| 💻 About Me | 🚀 |
-|------------|----|
-| 💻 Full Stack Developer (MERN) <br> Building scalable apps <br>  UI/UX focused <br> Performance optimization <br>  Learning System Design <br> Hackathon enthusiast <br>4Consistent coder  | <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="250"/> |
+- Full Stack Developer (MERN)  
+- UI/UX focused 
+- Building scalable apps
+-  Performance optimization
+- Consistent coder  
+- Hackathon enthusias
+-  Always learning new tech  
+-  Learning System Design  
 
+</td>
+
+<td width="45%">
+<img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="100%">
+</td>
+</tr>
+</table>
 </div>
 
 
