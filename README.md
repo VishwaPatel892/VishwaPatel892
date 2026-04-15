@@ -94,22 +94,22 @@ Passionate Full-Stack Developer with hands-on experience in building modern, sca
 
 ## ⚡ Tech Stack
 
-### 🎨 Frontend
+<h3 align="center">🎨 Frontend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux&perline=6" />
 </p>
 
-### ⚙️ Backend
+<h3 align="center">⚙️ Backend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" />
 </p>
 
-### 🗄 Database
+<h3 align="center">🗄 Database</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" />
 </p>
 
-### 🛠 Tools & Platforms
+<h3 align="center">🛠 Tools & Platforms</h3> 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel&perline=6" />
 </p>
