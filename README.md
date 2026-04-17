@@ -10,7 +10,7 @@
   <a href="https://drive.google.com/file/d/108JCgrGIbmNV5dfkx5vGWPWt0rVtg8yg/view">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-6D28D9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
-  <a href="https://my-portfolio-omega-weld-87.vercel.app/">
+  <a href="https://patel-vishwa.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
